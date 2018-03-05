@@ -262,25 +262,6 @@ li.selected, .selected > div {
   height: auto;
 }
 
-/**/
-#page-brothers-sophomores .clickable-face img {
-  width: 90%;
-  height: auto;
-}
-
-#page-brothers-freshmen .clickable-face img {
-  width: 180px;
-  height: 250px;
-  padding: 10px;
-}
-
-#page-brothers-freshmen .clickable-face-name {
-  width: 160px;
-  left: 10px;
-  bottom: 10px;
-}
-/**/
-
 .clickable-face-name {
   font-family: 'Helvetica Neue', arial, sans-serif;
   font-variant: small-caps;

@@ -107,6 +107,11 @@ body {
 }
 
 #page-brothers-sophomores .clickable-face {
+  width: 14.5%;
+  padding: .34%;
+}
+
+#page-brothers-freshmen .clickable-face {
   width: 16.5%;
   padding: .34%;
 }
