@@ -269,13 +269,13 @@ li.selected, .selected > div {
 }
 
 #page-brothers-freshmen .clickable-face img {
-  width: 200px;
-  height: auto;
+  width: 180px;
+  height: 250px;
   padding: 10px;
 }
 
 #page-brothers-freshmen .clickable-face-name {
-  width: 180px;
+  width: 160px;
   left: 10px;
   bottom: 10px;
 }
