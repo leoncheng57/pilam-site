@@ -13,3 +13,5 @@ TODO
 - [ ] Put freshmen in pledge order
 - [ ] Shrink freshmen pictures a little so Tom's name is visible
 - [ ] Change Calvin's profile picture
+- [ ] improve second page picture
+- [ ] Make composite picture show on mobile (smaller) site
