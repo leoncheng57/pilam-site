@@ -45,7 +45,7 @@ Marvin Blum (Deceased)
 
 Class of 1953
 Michael Levy
-Dick Landry
+Dick Landy
 Alan Bercow
 David Bernstein
 John Ehrenfeld
@@ -964,4 +964,16 @@ Kevin Lu
 Mark Chounlakone
 Brian Xu
 Masa Bando
+
+Class of 2019
+Jamie Bloxham
+David Onyemelukwe
+Hoang Nguyen
+Josh Xiong
+Luis Gutierrez
+Bryan Chen
+Rohan Kodialam
+Ben Wang
+Guillermo Diaz
+Philip Sun
 .
