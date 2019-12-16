@@ -10,7 +10,4 @@ https://groups.mit.edu/webmoira/list/plp-www <= add future webmasters to this ma
 
 TODO
 ----
-- [ ] Put freshmen in pledge order
-- [ ] Change Calvin's profile picture
-- [ ] improve second page picture
-- [ ] Make composite picture show on mobile (smaller) site
+
