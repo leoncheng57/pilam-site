@@ -83,6 +83,11 @@ body {
   background-position: center;
 }
 
+#page-house-summer {
+    background-image: url("../img/summer-bg.jpg");
+    background-position: center;
+}
+
 #page-brothers {
   background-image: url("../img/brothers-bg.jpg");
   background-position: center;
